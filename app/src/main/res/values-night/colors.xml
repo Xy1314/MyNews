@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#35464e</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#f33</color>
+    <!--<color name="colorPrimaryText">#fff</color>-->
+    <!--<color name="colorSecondaryText">#ffff</color>-->
+    <!--<color name="colorBaseBackground">#ffff</color>-->
+    <!--<color name="colorNavItemSelected">#03A9F4</color>-->
+    <!--<color name="colorNavItemUnselected">#8799a5</color>-->
+</resources>
